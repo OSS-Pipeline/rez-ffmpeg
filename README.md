@@ -1,3 +1,4 @@
-# rez-ffmpeg
+rez-ffmpeg
+===
 
 Rez build configuration for FFmpeg.
